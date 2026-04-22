@@ -1,10 +1,11 @@
 # @tychilabs/ugf-testnet-js
 
 [![npm](https://img.shields.io/npm/v/@tychilabs/ugf-testnet-js)](https://www.npmjs.com/package/@tychilabs/ugf-testnet-js)
-[![npm downloads](https://img.shields.io/npm/dm/@tychilabs/ugf-testnet-js)](https://www.npmjs.com/package/@tychilabs/ugf-testnet-js)
 [![license](https://img.shields.io/npm/l/@tychilabs/ugf-testnet-js)](./LICENSE)
 [![types](https://img.shields.io/npm/types/@tychilabs/ugf-testnet-js)](https://www.npmjs.com/package/@tychilabs/ugf-testnet-js)
-[![node](https://img.shields.io/node/v/@tychilabs/ugf-testnet-js)](https://www.npmjs.com/package/@tychilabs/ugf-testnet-js)
+
+
+![UGF Remote Transactions](./image.png)
 
 This is the UGF testnet SDK. It runs the full UGF execution lifecycle against Base Sepolia only, using `TYI_MOCK_USD` as a mock settlement coin. Users send transactions without holding any destination-chain ETH.
 
