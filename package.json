@@ -1,6 +1,6 @@
 {
   "name": "@tychilabs/ugf-testnet-js",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "UGF testnet SDK — gasless transactions on Base Sepolia. No ETH required. Pay gas in TYI mock USD.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
